@@ -1,5 +1,5 @@
 {
-  "name": "lunatic/hazelcast-php-client",
+  "name": "nhanchaukp/hazelcast-php-client",
   "description": "Hazelcast client using the Open Binary Client Protocol",
   "type": "library",
   "license": "Apache-2.0",
